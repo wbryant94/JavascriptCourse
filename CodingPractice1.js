@@ -32,6 +32,7 @@ let dataTwo = {
     johnHeight: 1.76,
     markMass: 95,
     markHeight: 1.88
+    
 }
 
 
